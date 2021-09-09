@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    font-family: "Consolas";
+}
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #100F15;
+}
+
+.pallete{
+    top: calc(50% - 120px);
+    height: 150px;
+    width: 5px;
+    background: white;
+    position: absolute;
+}
+
+.player{
+    left: 5%;
+}
+
+.bot{
+    right: 5%;
+}
+
+.ball{
+    position: absolute;
+    background: white;
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    top: 50%;
+    border-radius: 50vw;
+}
+
+.scores{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20%;
+    top: 10%;
+}
+
+.score{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.border{
+    height: 80%;
+    width: 10px;
+    border: 10px dashed white;
+}
