@@ -1,5 +1,5 @@
 # Simple PONG 
-[Check game!]("https://google.com/")
+### [Check game!](https://google.com/)
 
 ---
 
