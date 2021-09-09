@@ -1,5 +1,5 @@
 # Simple PONG 
-### [Check game!](simple-pong.netlify.app)
+### [Check game!](https://simple-pong.netlify.app)
 
 ---
 
