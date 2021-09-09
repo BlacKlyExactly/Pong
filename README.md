@@ -8,7 +8,7 @@
 ---
 
 ### Description
-- Pong game written without any framework or library just **html**, **css**, **js**.
+- Pong game written without any framework or library, just **html**, **css**, **js**.
 - Game score **is not** saving after page refresh, and it's for **single player**. (You're playing with bot)
 
 ---
