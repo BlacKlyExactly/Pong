@@ -33,7 +33,7 @@ Just **download** or **clone** it
 ```bash
 git clone https://github.com/BlacKlyExactly/Pong.git
 ``` 
-and doubleclick (or put int the server) **index.html** file
+and doubleclick **index.html** file
 
 ---
 
